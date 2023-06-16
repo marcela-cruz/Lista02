@@ -1,3 +1,13 @@
+// Escrever um algoritmo em função de uma escolha, solicitar os dados
+// necessários para o cálculo da respectiva área. Enviar mensagem de erro se o
+// usuário escolher uma opção inexistente. Encerrar o algoritmo somente quando
+// selecionada a opção de finalização.
+
+// 1 – Triângulo
+// 2 – Quadrado
+// 3 – Retângulo
+// 4 – Círculo
+// 5 - Fim
 
 #include <iostream>
 #include <cmath>
